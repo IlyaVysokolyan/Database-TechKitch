@@ -1,5 +1,5 @@
 ## Database service for `techno-kitchen` beta version.
-**Задача** - реализовать свервис, который будет принимать с сайта(**от сервиса `UserRequestService`**) запросы от пользователей и обрабатывать их.
+**Задача** - реализовать свервис, который будет принимать с сайта(**от сервиса [`User-Request-Service`](https://github.com/IlyaVysokolyan/User-Request-Service)**) запросы от пользователей и обрабатывать их.
 - Структура проекта:
   - Model
   - DTO
